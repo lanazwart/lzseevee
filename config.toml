@@ -1,7 +1,7 @@
 baseURL = "https://lanazwart.github.io/lzseevee/"
 languageCode = "en-us"
 title = "My New Online CV"
-theme = "ananke"
+theme = "gohugo-theme-ananke"
 publishDir = "docs"
 
 # theme.toml template for a Hugo theme
@@ -15,7 +15,3 @@ homepage = "https://github.com/budparr/gohugo-theme-ananke"
 tags = ["website", "starter", "responsive"]
 features = ["posts", "shortcodes"]
 min_version = 0.25
-
-[author]
-  name = "Bud Parr"
-  homepage = "https://github.com/budparr"
