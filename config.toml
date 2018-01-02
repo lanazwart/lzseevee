@@ -10,8 +10,34 @@ publishDir = "docs"
 name = "Lana Zwart Online CV"
 license = "MIT"
 licenselink = "https://github.com/budparr/gohugo-theme-ananke/blob/master/LICENSE.md"
-description = "A Base theme for building full featured Hugo sites"
+description = "From Mainframe to Cloud"
 homepage = "https://github.com/budparr/gohugo-theme-ananke"
 tags = ["website", "starter", "responsive"]
 features = ["posts", "shortcodes"]
 min_version = 0.25
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "The last search you'll ever need to do. Maybe."
+  facebook = ""
+  twitter = "https://twitter.com/lanazee"
+  instagram = ""
+  youtube = ""
+  github = ""
+  linkedin = "https://www.linkedin.com/in/lana-z-9838623b/"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/StormsriverCapeSA.jpg"
+  recent_posts_number = 2
