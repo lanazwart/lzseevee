@@ -1,0 +1,4 @@
+baseURL = "http://lanazed.life"
+languageCode = "en-us"
+title = "My New Online CV"
+theme = "ananke"
