@@ -1,4 +1,4 @@
-baseURL = "lanazwart.github.io/lzseevee/"
+baseURL = "https://lanazwart.github.io/lzseevee/"
 languageCode = "en-us"
 title = "My New Online CV"
 theme = "ananke"
