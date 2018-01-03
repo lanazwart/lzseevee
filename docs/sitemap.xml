@@ -97,4 +97,10 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>https://lanazwart.github.io/lzseevee/work/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
 </urlset>
