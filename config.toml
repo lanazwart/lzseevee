@@ -27,7 +27,6 @@ enableRobotsTXT = true
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
-
 [params]
   favicon = ""
   description = "The last search you'll ever need to do. Maybe."
@@ -39,5 +38,5 @@ enableRobotsTXT = true
   linkedin = "https://www.linkedin.com/in/lana-z-9838623b/"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/StormsriverCapeSA.jpg"
+  featured_image = "/images/womenmainframe.jpg"
   recent_posts_number = 2
