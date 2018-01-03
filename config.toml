@@ -1,6 +1,6 @@
 baseURL = "https://lanazwart.github.io/lzseevee/"
 languageCode = "en-us"
-title = "My New Online CV"
+title = "From Mainframe to Cloud"
 theme = "gohugo-theme-ananke"
 publishDir = "docs"
 
@@ -10,7 +10,7 @@ publishDir = "docs"
 name = "Lana Zwart Online CV"
 license = "MIT"
 licenselink = "https://github.com/budparr/gohugo-theme-ananke/blob/master/LICENSE.md"
-description = "From Mainframe to Cloud"
+description = "WAAR IS JY"
 homepage = "https://github.com/budparr/gohugo-theme-ananke"
 tags = ["website", "starter", "responsive"]
 features = ["posts", "shortcodes"]

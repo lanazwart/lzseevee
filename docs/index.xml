@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lana Zwart Online CV on My New Online CV</title>
+    <title>Lana Zwart Online CV on From Mainframe to Cloud</title>
     <link>https://lanazwart.github.io/lzseevee/</link>
-    <description>Recent content in Lana Zwart Online CV on My New Online CV</description>
+    <description>Recent content in Lana Zwart Online CV on From Mainframe to Cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Jan 2018 19:40:29 +0000</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Tue, 02 Jan 2018 19:40:29 +0000</pubDate>
       
       <guid>https://lanazwart.github.io/lzseevee/post/my-first-post/</guid>
-      <description>Lana Zwart Online CV Written using Hugo, a golang website framework</description>
+      <description>Posts Written using Hugo, a golang website framework</description>
     </item>
     
     <item>
