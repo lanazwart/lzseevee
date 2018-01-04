@@ -19,7 +19,7 @@ Worked for South-African government and banks as a mainframe programmer and busi
 Worked as an analyst programmer, business analyst and lastly product manager
 
 ## Core competencies
-Verifiable track record in fields such as analysis, design, requirements gathering, project managementuser stories, training, client relations, business process mapping and the development of computer applications.
+Verifiable track record in fields such as analysis, design, requirements gathering, project management, user stories, training, client relations, business process mapping and the development of computer applications.
 
 Competent in keeping customers satisfied with the product and services. Skilled to help customers understand what they really need from the product as opposed to what they think they need - wink wink. Very good understanding of what engineers need from the business/product team to develop new features/projects or to enhance existing code. Keep engineering team focused on priorities and current roadmap.
 
