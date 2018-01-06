@@ -12,11 +12,11 @@ Started out 25 years ago (give or take) as an apprentice mainframe programmer fo
 ## Experience gained
 Gained experience in a wide range of projects built with a wide range of technologies, both in the public and private sectors. Extensive experience in all facets of the SDLC process from conceptual design through to user training/support. Experience with different methodologies for instance Agile, Prosci, Agile-fall and Waterfall.  
 
-### South Africa
-Worked for South-African government and banks as a mainframe programmer and business analyst
+- **South Africa**
+  Worked as a mainframe programmer and business analyst
 
-### Northern Ireland
-Worked as an analyst programmer, business analyst and lastly product manager
+- **Northern Ireland**
+ Worked as an analyst programmer, business analyst and lastly product manager
 
 ## Core competencies
 Verifiable track record in fields such as analysis, design, requirements gathering, project management, user stories, training, client relations, business process mapping and the development of computer applications.
@@ -25,3 +25,15 @@ Competent in keeping customers satisfied with the product and services. Skilled 
 
 ## Django Girls Belfast
 Founded and built a Django Girls community in Belfast in November 2015 - www.djangogirls.org/belfast. Handed over to a very competent geek woman who has been running these events since June 2017. Keeping up to date with current trends and technologies by attending conferences and computer user groups. (and writing online CV using GoHugo)
+
+## Part time counsellor
+BACP registered counsellor working as a volunteer counsellor on a part-time basis
+
+## Languages
+Fluent in Afrikaans and English. Semi-fluent in Dutch
+
+## Interests
+Linux, Web Development, Flamenco dancing, Counselling
+
+## References
+Available on request

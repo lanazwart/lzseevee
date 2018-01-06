@@ -8,10 +8,10 @@ featured_image: "/images/electricscheme.jpg"
 ### Duties
  - Working closely with both the business and the IT teams to produce a prioritized product road map
  - Facilitating and analysing customer feedback to be incorporated into road map
-- Producing clear and precise requirements, user stories and acceptance criteria for each project on the priority list for use by the engineering team
-- Working closely with development manager and project manager to ensure delivery of business critical Requirements
+- Producing clear and precise requirements, user stories and acceptance criteria for each enhancement or feature on the agreed priority list - for consumption by the engineering team (including QA)
 - Designing new screens with UX specialist to ensure a consistent, stable and intuitive UI experience in line with the latest design principles
-- Attending stand-up meetings every day to stay on top of the engineering team’s deliverables, release cycles and challenges
+- Working closely with development manager and project manager to ensure delivery of business critical requirements
+- Attending daily stand-up meetings to stay on top of the engineering team’s deliverables, release cycles and challenges
 - Providing support and guidance to the engineering team during all phases of the SDLC
 -	Organising and leading release meetings (bi-weekly) to ensure releases happen on time and prerequisites are met
 - Ensuring all affected parties are change ready before each release
@@ -19,15 +19,14 @@ featured_image: "/images/electricscheme.jpg"
 - Assisting QA staff with testing – helping with the definition of test cases and determining release readiness
 - Managing relationships and expectations of customers. This includes communicating new features and time lines for when they are released
 - Providing training to customers and support engineers when they are affected by the changes/new development in the release cycle
-- Facilitating and analysing customer feedback to be incorporated into road map
 - Providing help and support to the Sales teams and Account Managers
 - Managing the Agile Jira boards (Kanban and Agile) and backlog
--	Triaging of new support tickets. Processing of support tickets that are related to user errors and/or lack of knowledge so that engineers only work on tickets that involve code changes
+-	Triaging of new support tickets. Processing of support tickets that are related to user errors and/or lack of product knowledge so that engineers only work on tickets that involve code changes
 
 
 ## SR Labs - August 2015 until May 2016 (10 months)
 ### Duties
-- Importing/processing flat files into an SQL database for use in a BI Tool (Looker)
+- Importing/processing flat files containing Bloomberg consumption data into an SQL database for use in a BI Tool (Looker)
 - Developing new reports using LookML (Looker markup language)
 - Writing of report specifications and data dictionaries
 - Writing On-line Help and Documentation for the BI Tool using mark down and HTML
