@@ -2,6 +2,7 @@
 title: "About"
 description: "Profile"
 ---
+
 # Summary
 ## Birth
 Born and raised in Pretoria, South-Africa (where there are a lot of Jacaranda trees). Moved to Northern-Ireland in 2006.

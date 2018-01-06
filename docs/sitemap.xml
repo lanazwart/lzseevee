@@ -15,6 +15,12 @@
   </url>
   
   <url>
+    <loc>https://lanazwart.github.io/lzseevee/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://lanazwart.github.io/lzseevee/qualifications/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
