@@ -5,7 +5,7 @@ featured_image: "/images/electricscheme.jpg"
 ---
 
 ## Proofpoint - Since May 2016 (20 months)
-### Duties
+### Product Manager
  - Working closely with both the business and the IT teams to produce a prioritized product road map
  - Facilitating and analysing customer feedback to be incorporated into road map
 - Producing clear and precise requirements, user stories and acceptance criteria for each enhancement or feature on the agreed priority list - for consumption by the engineering team (including QA)
@@ -25,7 +25,7 @@ featured_image: "/images/electricscheme.jpg"
 
 
 ## SR Labs - August 2015 until May 2016 (10 months)
-### Duties
+### Business/Data Analyst
 - Importing/processing flat files containing Bloomberg consumption data into an SQL database for use in a BI Tool (Looker)
 - Developing new reports using LookML (Looker markup language)
 - Writing of report specifications and data dictionaries
@@ -33,7 +33,7 @@ featured_image: "/images/electricscheme.jpg"
 
 
 ## AMT Sybex - July 2012 – June 2015 (3 years)
-### Duties
+### Business Analyst
 - Consulting on Ellipse asset management system on site (Network Rail, UK)
 - Requirements gathering
 - Producing client requirement specifications - similar to a BRD
@@ -48,7 +48,7 @@ featured_image: "/images/electricscheme.jpg"
 
 
 ## Allstate - July 2006 until June 2012 (6 years)
-### Duties
+### Analyst Programmer
 - Analysing requirements received from business owner
 - Determining feasibility of changes/new development requested by business and estimating cost + duration
 - Coding (all coding on the team was done by me) and unit testing of COBOL/CICS/DB2/JCL/VSAM applications running on OS390 and AS400 mainframes
@@ -62,7 +62,6 @@ featured_image: "/images/electricscheme.jpg"
 Presentation skills
 
 ## Standard Bank, SA - June 2002 until June 2006  (4 years)
-### Duties
 #### Business analyst
 - Writing of functional/technical specifications for changes to the Credit Card Systems
 -	Producing test strategies and test plans
