@@ -8,13 +8,17 @@ description: "Profile"
 Born and raised in Pretoria, South-Africa (where there are a lot of Jacaranda trees). Moved to Northern-Ireland in 2006.
 
 ## Early career
-Started out 25 years ago (give or take) as an apprentice mainframe programmer for the South African government. Naturally progressed to business analyst and later product manager.
+Started out 27 years ago (give or take) as an apprentice mainframe programmer for the South African government. Naturally progressed to business analyst and later product manager.
 
 ## Experience gained
-Gained experience in a wide range of projects built with a wide range of technologies, both in the public and private sectors. Extensive experience in all facets of the SDLC process from conceptual design through to user training/support. Experience with different methodologies for instance Agile, Prosci, Agile-fall and Waterfall.  
+- Wide range of projects built with a wide range of technologies, both in the public and private sectors
+- Extensive experience in all facets of the SDLC process from conceptual design through to user training/support
+- Methodologies from Waterfall, via Agile-fall later into Agile  
 
 - **South Africa**
-  Worked as a mainframe programmer and business analyst
+--  Mainframe programmer
+--  Business analyst
+--  Change analyst
 
 - **Northern Ireland**
  Worked as an analyst programmer, business analyst and lastly product manager
@@ -26,7 +30,7 @@ Competent in keeping customers satisfied with the product and services. Skilled 
 
 Experience in fields such as email security, DMARC, Asset management, Insurance, Banking and Government
 
-Enjoy learning new programming languages/methodologies/operating systems. 
+Enjoy learning new programming languages/methodologies/operating systems.
 
 ## Django Girls Belfast
 Founded and built a Django Girls community in Belfast in November 2015 - www.djangogirls.org/belfast. Handed over to a very competent "geek" woman who has been running these events since June 2017. Keeping up to date with current trends and technologies by attending conferences and computer user groups (and writing online CV using GoHugo)
