@@ -10,7 +10,6 @@
   
   <url>
     <loc>https://lanazwart.github.io/lzseevee/categories/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
@@ -34,7 +33,6 @@
   
   <url>
     <loc>https://lanazwart.github.io/lzseevee/tags/</loc>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
