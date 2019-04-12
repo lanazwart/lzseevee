@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lanazwart.github.io/lzseevee/about/</loc>
+    <loc>http://www.lanazee.com/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lanazwart.github.io/lzseevee/categories/</loc>
+    <loc>http://www.lanazee.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lanazwart.github.io/lzseevee/contact/</loc>
+    <loc>http://www.lanazee.com/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lanazwart.github.io/lzseevee/qualifications/</loc>
+    <loc>http://www.lanazee.com/qualifications/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lanazwart.github.io/lzseevee/</loc>
+    <loc>http://www.lanazee.com/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lanazwart.github.io/lzseevee/tags/</loc>
+    <loc>http://www.lanazee.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lanazwart.github.io/lzseevee/work/</loc>
+    <loc>http://www.lanazee.com/work/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
